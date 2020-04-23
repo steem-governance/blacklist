@@ -4,8 +4,6 @@ date: 2020-04-23
 ---
 
 
-## roomservice is in our blacklist
-
 ### Account
 
 https://steemit.com/@roomservice
