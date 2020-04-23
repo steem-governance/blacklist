@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Steem Blacklist
 
-I'm glad you are here. I plan to talk about ...
+The accounts who are extensively plagiarizing, spamming, milking, or destroying the Steem ecosystem.
+
+| account | category | summary | evidence | note |
+| -- | -- | -- | -- | -- |
+| roomservice | milking | the account is self-voting comments for milking the system | https://steemit.com/@roomservice/comments | |
